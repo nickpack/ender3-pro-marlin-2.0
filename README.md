@@ -3,13 +3,14 @@
 Late 2020 Ender 3 Pro "v1.5":
 
 * Creality v4.2.2 32-bit 24v board
+* Micro Swiss Direct Drive Extruder
+* Micro Swiss All Metal Hotend
 * BLTouch ABL probe (Genuine Creality kit installed with official bracket and pin27 board)
 * Meanwell PSU (24v)
 * Glass bed (Creality) - held on with supplied binder clips
 * Capricorn bowden tube
-* Aftermarket MK8 hotend (stock specs)
 * Z end stop switch removed (Bltouch wired into Z end stop socket on motherboard)
-* Octoprint on an RPi 4B 2GB
+* Octoprint on an RPi 4B 2GB with old v1.3 camera board
 
 # Nozzle Z Offset
 
