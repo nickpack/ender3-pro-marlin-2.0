@@ -2,7 +2,7 @@
 
 Late 2020 Ender 3 Pro "v1.5":
 
-* Creality v4.2.2 32-bit 24v board
+* ~~Creality v4.2.2 32-bit board~~ *An incident involving a wire brush and a heater cartridge means I am now running a* **Creality v4.2.7 32-bit board**
 * Micro Swiss Direct Drive Extruder
 * Micro Swiss All Metal Hotend
 * BLTouch ABL probe (Genuine Creality kit installed with official bracket and pin27 board)
@@ -16,7 +16,7 @@ Late 2020 Ender 3 Pro "v1.5":
 
 The nozzle Z offset in this firmware is set to 0, and you have to manually calibrate from the menu on your printer.
 
-With the Creality bracket the z offset for PLA (for me) is ~-3.2 but set yours manually in small increments
+With the Creality bracket the z offset for PLA (for me) is ~-3.7 but set yours manually in small increments
 so that you don't damage your bed (like I did first time)
 
 # ABL
